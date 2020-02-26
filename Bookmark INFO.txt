@@ -1,0 +1,12 @@
+Default Website: (Parsec Cloud Gaming)
+
+-Credit-
+
+Code: Micahm55 
+Website: Parsec Gaming
+
+To change website go to the bookmark and right click
+
+select edit and change the https://app.parsecgaming.com
+
+Change it to your selected url *NOTE* not all websites are compatible
