@@ -1,12 +1,12 @@
-Default Website: (Parsec Cloud Gaming)
+Default Website: DOOM (1993)
 
 -Credit-
 
 Code: Micahm55 
-Website: Parsec Gaming
+Website: JS-DOS Games
 
 To change website go to the bookmark and right click
 
-select edit and change the https://app.parsecgaming.com
+select edit and change the https://js-dos.com/games/doom.exe.html
 
 Change it to your selected url *NOTE* not all websites are compatible
